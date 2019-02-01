@@ -1,0 +1,16 @@
+//
+//  JMM.pch
+//  JMM
+//
+//  Created by hqy on 2019/1/30.
+//  Copyright © 2019 hanqiyuan. All rights reserved.
+//
+
+#ifndef JMM_pch
+#define JMM_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+#import "JMMGeneralClass.h"
+#import "JMMMacro.h"
+#endif /* JMM_pch */

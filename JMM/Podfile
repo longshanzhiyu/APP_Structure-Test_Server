@@ -1,0 +1,33 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+
+target 'JMM' do
+  # Uncomment the next line if you're using Swift or would like to use dynamic frameworks
+  # use_frameworks!
+
+  # Pods for JMM
+  # 猿题库的网络请求类
+  pod 'YTKNetwork', '~> 2.0.4'
+  # 网络提示符
+  pod 'MBProgressHUD', '~> 1.1.0'
+  # 上下拉加载提示符
+  pod 'MJRefresh', '~> 3.1.15.7'
+  # 网络图片加载
+  pod 'SDWebImage', '~> 4.4.4'
+  # 自动布局
+  pod 'Masonry', '~> 1.1.0'
+  # 数据库存储
+  pod 'BGFMDB', '~> 2.0.13'
+  # 键盘自适应
+  pod 'IQKeyboardManager', '~> 6.2.0'
+  # 导航栏
+  pod 'RTRootNavigationController', '~> 0.7.1'
+  #pod 'Bugly' #bug监控
+  # 字典转模型
+  pod 'YYKit', '~> 1.0.9'
+  # 轮播图
+  pod 'SDCycleScrollView', '~> 1.75'
+  # 空页面
+  pod 'DZNEmptyDataSet', '~> 1.8.1'
+
+end

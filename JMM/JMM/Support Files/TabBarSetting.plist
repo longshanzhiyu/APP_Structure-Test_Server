@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>tabbar</key>
+	<array>
+		<dict>
+			<key>itemClass</key>
+			<string>TestViewController</string>
+			<key>itemName</key>
+			<string>模块一</string>
+			<key>imageName</key>
+			<string>test</string>
+			<key>selectImageName</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>itemClass</key>
+			<string>TestViewController</string>
+			<key>itemName</key>
+			<string>模块二</string>
+			<key>imageName</key>
+			<string>test</string>
+			<key>selectImageName</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>itemClass</key>
+			<string>TestViewController</string>
+			<key>itemName</key>
+			<string>模块三</string>
+			<key>imageName</key>
+			<string>test</string>
+			<key>selectImageName</key>
+			<string></string>
+		</dict>
+	</array>
+</dict>
+</plist>
